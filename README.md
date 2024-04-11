@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Rebecca Nascimento 😁
+## Oii, eu sou Rebecca Nascimento 😁
 
  <div>
    <a href="https://github.com/nascibecca">
@@ -13,8 +13,6 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   
