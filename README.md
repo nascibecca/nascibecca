@@ -1,4 +1,4 @@
-## Oii, eu sou Rebecca Nascimento 😁
+## Oii, Sou Rebecca Nascimento 😁
 
  <div>
    <a href="https://github.com/nascibecca">
